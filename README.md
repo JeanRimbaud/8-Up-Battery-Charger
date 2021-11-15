@@ -25,4 +25,4 @@ Firmware was done in Atmel/ Microchip Studio and flashed via ISP, using a Tag Co
 I have yet to be successful using other USB bootloaders for the 32u4 other than Arduino. If you've had success with that, please share!  
 Since the firmware is so compact and simple, I kept it all to one file. 
 
-This was my first project as this job where they let me do the design, board layout, assembly (stencil, heat gun and an iron) and firmware. Those are my favortie projects, escpecially when they work. 
+This was my first project as this job where they let me do the design, board layout, assembly (stencil, heat gun and an iron) and firmware. Those are my favorite projects, especially when they work. 
